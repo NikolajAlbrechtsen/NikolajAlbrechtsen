@@ -15,7 +15,7 @@
   background-repeat: no-repeat;
 }
 .main h1 {
-  color: white;
+  color: black;
   position: absolute;
   margin: 25px;
 }
@@ -39,7 +39,7 @@
 }
 .navbar ul li a {
   text-decoration: none;
-  color: white;
+  color: black;
   padding: 30px;
 }
 .footer {
@@ -67,9 +67,9 @@
   float: right;
 }
 .maincontent h1, h2, h3, p {
-  color: white;
+  color: black;
   text-align: center;
-  font-size: 30px
+  font-size: 45px
 }
 .nikolaj {
   display: block;
@@ -78,32 +78,13 @@
   width: 10%;
   border-radius: 100px
 }
-#nyhedtitle {
-  font-size: 45px;
-  margin-bottom: 20px;
-}
-.subtitle {
-  font-size: 28px;
-  float: left;
-  margin-bottom: 10px;
-}
-.nyhedbesked {
-  clear: both;
-  float: left;
-  font-size: 23px;
-  font-family: Open Sans Condensed;
-  margin-bottom: 25px;
-}
-.nyhederdiv p {
-  float: left;
-}
 footer {
   background: rgba(46,224,54,0.5);
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  color: white;
+  color: black;
   height: 80px;
   text-align: center;
 }
