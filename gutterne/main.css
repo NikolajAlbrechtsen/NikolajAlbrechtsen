@@ -113,10 +113,9 @@ footer h6 {
 }
 .spil {
   text-align: center;
-  margin-top: 100px;
 }
 .spil1 {
-  width: 12%;
+  width: 8%;
   margin-left: 15px;
   display: inline-block;
   margin-left: 30px;
@@ -126,6 +125,7 @@ footer h6 {
 .spil1 img {
   width: 100%;
   margin: auto;
+  margin-bottom: 10px;
   margin-top: 15px;
 }
 .spillene h1, h2, h3, h4, h5 {
