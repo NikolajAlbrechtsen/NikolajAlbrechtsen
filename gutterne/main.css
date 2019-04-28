@@ -47,13 +47,22 @@
 }
 .wrap {
 }
-.maincontent {
+.linkcontent {
   background: rgba(46,224,54,0.7);
   padding: 25px;
   margin: 35px;
   border-radius: 20px;
   height: 680px;
   width: 73%;
+  float: left;
+}
+.maincontent {
+  background: rgba(46,224,54,0.7);
+  padding: 25px;
+  margin: 35px;
+  border-radius: 20px;
+  height: 680px;
+  width: 93.5%;
   float: left;
 }
 .linkspil {
@@ -160,5 +169,5 @@ footer h6 {
   font-size: 30px;
   margin-left: 50px;
   margin-top: 25px;
-  
+
 }
