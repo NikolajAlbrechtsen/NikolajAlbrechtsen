@@ -124,11 +124,8 @@ footer h6 {
 .iframe h2 {
   margin-bottom: 15px;
 }
-.portfolio {
-  height: 15%;
-}
-.portfolio img {
-  width: 28%;
-  float: left;
-  padding: 10px;
+.billeder img {
+  width: 350px;
+  margin: auto;
+  margin-right: 1.7%;
 }
