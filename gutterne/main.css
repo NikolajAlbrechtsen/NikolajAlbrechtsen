@@ -113,11 +113,11 @@ footer h6 {
 .spil {
   width: 80%;
 }
-.spillene img {
+.spil1 {
   width: 5%;
-  margin: auto;
+  float: left;
+  margin-left: 15px;
 }
 .spillene h1, h2, h3, h4, h5 {
   font-size: 35px;
-  text-align: center;
 }
