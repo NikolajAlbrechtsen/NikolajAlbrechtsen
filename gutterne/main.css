@@ -54,6 +54,7 @@
   border-radius: 20px;
   height: 680px;
   width: 73%;
+  margin-top: 25px;
   float: left;
 }
 .maincontent {
@@ -74,7 +75,7 @@
   margin: 25px;
   height: 680px;
   float: right;
-  margin-top: 35px;
+  margin-top: 25px;
 }
 .linkspil a {
   color: Blue;
