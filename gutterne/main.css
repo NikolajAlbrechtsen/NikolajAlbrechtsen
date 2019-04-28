@@ -35,7 +35,7 @@
 }
 .navbar ul li a:hover {
   background-color: rgba(46,224,54,0.7);
-  color: #528cda;
+  color: black;
 }
 .navbar ul li a {
   text-decoration: none;
