@@ -53,8 +53,8 @@
   margin: 25px;
   border-radius: 20px;
   height: 680px;
-  width: 69%;
-  float: left;
+  width: 90%;
+  margin: auto;
 }
 .nyhederdiv {
   background: rgba(46,224,54,0.5);
