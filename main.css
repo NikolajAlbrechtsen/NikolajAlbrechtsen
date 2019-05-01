@@ -9,13 +9,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  background-image: url(landingimage.jpg);
+  background-repeat: no-repeat;
+}
 
 nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
   min-height: 8vh;
-  background-color: rgb(99, 0, 0);
+  opacity: 0.8;
   font-family: 'Titillium Web', sans-serif;
 }
 
@@ -25,6 +29,7 @@ nav {
   letter-spacing: 5px;
   font-size: 20px;
   font-family: Wendy One;
+  text-decoration: none;
 }
 
 .nav-links {
