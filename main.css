@@ -47,8 +47,8 @@
   display: inline-block;
 }
 .navbar ul li a:hover {
-  background-color: rgba(46,224,54,0.7);
-  color: black;
+  background-color: rgba(255,23,23);
+  color: white;
 }
 .navbar ul li a {
   text-decoration: none;
