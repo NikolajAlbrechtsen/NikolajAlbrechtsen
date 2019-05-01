@@ -1,12 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Wendy+One');
 * {
-  background-color: #63000;
+  background: grey;
 }
 
 .header {
-  background: ;
+
 }
 
 .nav {
-  background: #63000;
-  width: 100%;
+  background-color: rgba(99, 0, 0, 0.5);
+}
+
+nav ul {
+
+}
+
+#navtitle {
+  text-transform: uppercase;
+  font-family: Wendy One;
+  font-size: 28px;
+  margin-left: 25px;
 }
