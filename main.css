@@ -111,6 +111,32 @@ nav {
   background-color: rgb(99, 0, 0, 0.5);
   cursor: pointer;
 }
+
+.tablecontent {
+  background-color: green;
+  margin-top: 95px;
+
+}
+
+table {
+  border-collapse: collapse;
+  width: 70%;
+}
+
+th, td {
+  text-align: center;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
 /* Mobile Responsive */
 @media screen and (max-width:768px) {
   body {
