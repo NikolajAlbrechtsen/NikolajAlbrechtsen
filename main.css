@@ -84,12 +84,19 @@ nav {
   width: 35%;
   height: 50px;
   border-radius: 25px;
+  position: fixed;
+  left: 34%;
+  top: 45%;
+}
+.button p {
   font-size: 25px;
   font-family: Permanent Marker;
   text-align: center;
   position: fixed;
-  left: 34%;
-  top: 45%;
+  left: 47%;
+  right: 44%;
+  top: 43.6%;
+
 }
 .button:hover {
   transition: all 0.5s ease-in;
