@@ -1,0 +1,78 @@
+.designs {
+  width: 85%;
+  height: 800px;;
+  border-radius: 25px;
+  border: 5px solid rgb(99,0,0);
+  background: rgb(266,266,266,0.1);
+  margin: auto;
+  margin-top: 25px;
+}
+.designs h1 {
+  color: white;
+  font-family: Wendy One;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 1.5%;
+}
+.designs p {
+  color: white;
+  text-align: center;
+  margin-top: 0.5%;
+  font-family: monospace;
+  font-size: 20px;
+}
+.image {
+  margin-top: -25px;
+}
+.thedesign {
+  background-color: green;
+  width: 17.7%;
+  height: 240px;
+  border-radius: 25px;
+  display: inline-block;
+  -webkit-box-shadow: 28px 29px 12px 9px rgba(0,0,0,0.7);
+  -moz-box-shadow: 28px 29px 12px 9px rgba(0,0,0,0.7);
+  box-shadow: 28px 29px 12px 9px rgba(0,0,0,0.7);
+  margin-left: 75px;
+  margin-top: 55px;
+}
+.thedesign p {
+  position: absolute;
+  font-family: Wendy One;
+  margin-top: -10px;
+  font-size: 25px;
+  background-color: rgb(99,0,0);
+  padding: 7px 25px 7px 25px;
+  border-radius: 25px;
+  justify-content: space-around;
+
+}
+.thedesign h5 {
+  color: white;
+  border-radius: 15px;
+  background-color: rgb(99,0,0);
+  width: 14.5%;
+  height: 234px;
+  opacity: 0.5;
+  position: absolute;
+}
+.thedesign img {
+  width: 15%;
+  margin: auto;
+  align-items: center;
+  justify-content: space-around;
+  position: absolute;
+  border-radius: 25px;
+  border: 10px solid rgb(99,0,0);
+}
+.thedesign:hover {
+  opacity: 0.7;
+  cursor: pointer;
+  border-radius: 50px;
+}
+.floatleft {
+  float: left;
+}
+.floatright {
+  float: right;
+}
