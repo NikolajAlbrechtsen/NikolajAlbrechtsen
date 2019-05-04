@@ -26,15 +26,15 @@
 }
 .thedesign {
   width: 17.7%;
-  height: 240px;
+  height: 289px;
   border-radius: 25px;
   border-bottom-right-radius: 225px;
   display: inline-block;
-  -webkit-box-shadow: 28px 29px 12px 9px rgba(0,0,0,0.7);
-  -moz-box-shadow: 28px 29px 12px 9px rgba(0,0,0,0.7);
-  box-shadow: 28px 29px 12px 9px rgba(0,0,0,0.7);
   margin-left: 75px;
   margin-top: 55px;
+  -webkit-box-shadow: 10px 10px 12px 6px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 10px 10px 12px 6px rgba(0, 0, 0, 0.7);
+  box-shadow: 10px 10px 12px 6px rgba(0, 0, 0, 0.7);
 }
 .thedesign p {
   position: absolute;
@@ -49,9 +49,6 @@
 }
 .thedesign img {
   width: 15%;
-  margin: auto;
-  align-items: center;
-  justify-content: space-around;
   position: absolute;
   border-radius: 25px;
   border-bottom-right-radius: 225px;
@@ -62,10 +59,4 @@
   cursor: pointer;
   border-radius: 25px;
   border-bottom-right-radius: 225px;
-}
-.floatleft {
-  float: left;
-}
-.floatright {
-  float: right;
 }
