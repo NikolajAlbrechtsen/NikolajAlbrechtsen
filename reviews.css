@@ -1,0 +1,29 @@
+.reviews {
+  width: 90%;
+  height: 800px;
+  margin: auto;
+  background-color: rgb(226,226,226,0.3);
+  border-radius: 25px;
+  border: 10px solid rgb(99,0,0);
+  margin-top: 25px;
+}
+.reviews h1 {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-family: Wendy One;
+  text-transform: uppercase;
+  margin-top: 25px;
+}
+.review {
+  background-color: rgb(226,226,226,0.3);
+  width: 25%;
+  border-radius: 25px;
+  border: 10px solid rgb(99,0,0);
+
+}
+.review h1 {
+  font-size: 35px;
+  text-transform: none;
+
+}
