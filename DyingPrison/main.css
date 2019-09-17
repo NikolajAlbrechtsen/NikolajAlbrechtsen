@@ -1,7 +1,20 @@
-* {
+.velkommenbaggrund {
   background-image:url(velkommen.jpg);
+  width: 100%;
+  height: 100%;
+  
 }
 .velkommen {
   width: 75%;
   height: 50%;
+  margin: auto;
+  text-align: center;
+  Color: white;
+
+}
+.velkommen h1, h3 {
+  padding-bottom: 0;
+}
+.velkommen h1 {
+
 }
