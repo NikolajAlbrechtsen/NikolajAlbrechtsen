@@ -1,3 +1,7 @@
 * {
   background-image:url(velkommen.jpg);
 }
+.velkommen {
+  width: 75%;
+  height: 50%;
+}
