@@ -1,8 +1,12 @@
-.velkommenbaggrund {
+* {
   background-image:url(velkommen.jpg);
+}
+
+.velkommenbaggrund {
+
   width: 100%;
   height: 100%;
-  
+
 }
 .velkommen {
   width: 75%;
