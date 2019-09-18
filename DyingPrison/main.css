@@ -1,5 +1,7 @@
 * {
   background-image:url(velkommen.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
 }
 
 .velkommenbaggrund {
