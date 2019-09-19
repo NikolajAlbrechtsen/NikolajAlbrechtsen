@@ -3,25 +3,5 @@
   margin: 0;
 }
 body {
-  background: url(velkommen.jpg)
-}
-.velkommen {
-  width: 75%;
-  height: 50%;
-  margin: auto;
-  text-align: center;
-  Color: white;
-
-}
-.velkommen h1, h3 {
-  padding-bottom: 0;
-}
-.velkommen h1 {
-
-}
-
-nav {
-  list-style-type: none;
-  color: white;
-  text-align: center;
+  background: url(velkommen.jpg) no-repeat;
 }
