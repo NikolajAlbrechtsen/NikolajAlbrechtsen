@@ -5,3 +5,92 @@
 body {
   background: url(velkommen.jpg) no-repeat;
 }
+nav {
+  background-color: #08a100;
+  border-radius: 25px;
+  width: 75%;
+  margin: auto;
+  margin-top: 20px;
+  height: 75px;
+  opacity: 0.80;
+}
+.wrapper1 ul li {
+  list-style: none;
+}
+.wrapper1 ul li a {
+  float: left;
+  margin: 15px;
+  color: white;
+  font-size: 36px;
+  font-family:fantasy;
+  font-style: oblique;
+  text-decoration: none;
+  margin-left: 25px;
+  padding-left: 100px;
+}
+
+
+.wrapper2 ul li {
+  list-style: none;
+}
+.wrapper2 ul li a {
+  float: left;
+  margin: 15px;
+  color: white;
+  font-size: 36px;
+  font-family:fantasy;
+  font-style: oblique;
+  text-decoration: none;
+}
+.wrapper2 ul li a {
+  float: right;
+  padding-right: 100px;
+}
+.logo {
+  position: absolute;
+  margin-left: 600px;
+  margin-top: 2.5px;
+}
+.logo img {
+  width: 65%;
+}
+.main-content {
+  background-color: #08a100;
+  width: 75%;
+  margin: auto;
+  margin-top: 75px;
+  border-radius: 25px;
+  opacity: 0.80;
+  height: 625px;
+}
+.main-content h1 {
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+  text-transform: uppercase;
+  font-size: 45px;
+}
+.main-content p {
+  color: white;
+  text-align: center;
+  padding-top: 45px;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+footer {
+  background-color: #08a100;
+  width: 75%;
+  margin: auto;
+  margin-top: 75px;
+  height: 50px;
+  border-radius: 25px;
+  opacity: 0.80;
+}
+.footerwrapper p {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  text-transform: uppercase;
+  padding-top: 13px;
+}
