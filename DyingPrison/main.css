@@ -73,8 +73,10 @@ nav {
 .main-content p {
   color: white;
   text-align: center;
-  font-size: 20px;
-  font-family: sans-serif;
+  font-size: 25px;
+  font-family: inherit;
+  width: 75%;
+  margin: auto;
 }
 
 footer {
