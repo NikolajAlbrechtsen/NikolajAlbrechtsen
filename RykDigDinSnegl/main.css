@@ -8,7 +8,7 @@ body {
 }
 .nav-wrapper {
   background-color: lightgreen;
-  width: 74%;
+  width: 75%;
   margin: auto;
   height: 40px;
   border-bottom-left-radius: 10px;
@@ -65,4 +65,28 @@ body {
   font-size: 20px;
   color: black
   margin: 25px;
+}
+.rlitems {
+  float: left;
+  margin-left: 15px;
+}
+.rlitems h1 {
+  text-align: center;
+  padding-top: 25px;
+}
+.rltrading {
+  margin-left: 600px;
+}
+.rltrading h1 {
+  padding-top: 25px;
+  margin-left: -520px;
+}
+
+.team {
+  margin-left: 1400px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  margin-left: 1350px;
+  padding-top: 25px
 }
